@@ -1,0 +1,55 @@
+﻿/**
+*
+* mie.css
+* @author: Sangik Park
+* @version: 1.1
+* 
+* Copyright (c) 2012 University of Southern California
+*
+*/
+
+.mainContent
+{
+    width: 740px;
+}
+.rowodd
+{
+    background-color: #DDDDDD;
+}
+.roweven
+{
+    background-color: #EEEEEE;
+}
+.total
+{
+    background-color: #FDF5DE;
+}
+.outline
+{
+    border: 1px solid;
+}
+.errmsg
+{
+    color: red;
+}
+.boldred
+{
+    color: red;
+    font-weight: bold;
+}
+.smaller
+{
+    font-size: smaller;
+}
+div.ui-datepicker
+{
+    font-size: 12px;
+}
+.dollarsign
+{
+    padding-top:3px;
+    padding-bottom:3px;
+    border-style:hidden;
+    text-align:center;
+    font-weight:bold;
+}
